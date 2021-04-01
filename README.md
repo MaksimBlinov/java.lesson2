@@ -1,1 +1,1 @@
-# java.lesson2
+# java_lesson2
